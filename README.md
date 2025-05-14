@@ -1,22 +1,19 @@
 <div align="center">
 
 <!-- 헤더 이미지 -->
-
 <img src="https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=200&text=Hello,%20I'm%20Gwanju!&fontAlign=50&fontAlignY=50&fontSize=40&fontColor=000000" />
 
 <!-- 방문자 수 + 팔로워 수 -->
-![](https://img.shields.io/github/followers/Kanggwanju?style=social)
-
-
+<img src="https://komarev.com/ghpvc/?username=Kanggwanju&label=Visitors&color=0e75b6&style=flat" alt="visitor badge"/>
+<img src="https://img.shields.io/github/followers/Kanggwanju?style=social" alt="GitHub followers"/>
 
 ---
 
 ### 💬 소개
 
 클라우드 네이티브 웹 풀스택 부트캠프에 참여 중이며,  
-**백엔드 개발과 DevOps에 진심인 개발자**가 되기 위해 노력 중입니다.  
-공부한 내용을 꾸준히 기록하며 성장하고 있어요!
-
+**백엔드 개발과 DevOps에 진심인 개발자**를 꿈꾸며 열심히 성장 중입니다.  
+공부한 내용을 꾸준히 기록하며, 한 걸음씩 나아가고 있어요!
 
 ---
 
@@ -43,31 +40,29 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
 
-
 ---
 
-### 🛠️ Currently Learning
+### 📖 Currently Learning
 
-클라우드 네이티브 웹 풀스택 부트캠프 수강 중  
-매일 TIL (Today I Learned) 작성  
-Git과 GitHub의 실전 워크플로우 학습
+💻 클라우드 네이티브 웹 풀스택 부트캠프 수강 중  
+🗓️ 매일 TIL (Today I Learned) 작성  
+🔧 Git과 GitHub의 실전 워크플로우 학습
 
-
+---
 
 ### 📊 GitHub Stats
 
 [![Kanggwanju's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanggwanju&show_icons=true&hide=contribs,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanggwanju&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanggwanju&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kanggwanju&theme=tokyonight&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ### 📫 Contact & Links
 
-📧 Email: xprtktm1@gmail.com  
-📒 [TIL Repository](https://github.com/Kanggwanju/TIL)  
-📝 [Velog Blog](https://velog.io/@xprtktm1)
+[![Gmail Badge](https://img.shields.io/badge/-xprtktm1@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:xprtktm1@gmail.com)
+[![TIL Repo](https://img.shields.io/badge/GitHub_TIL-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/Kanggwanju/TIL)
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@xprtktm1)
 
 ---
 
@@ -75,3 +70,4 @@ Git과 GitHub의 실전 워크플로우 학습
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&section=footer" />
 
 </div>
+
