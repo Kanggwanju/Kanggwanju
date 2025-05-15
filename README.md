@@ -4,7 +4,6 @@
 <img src="https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=200&text=Hello,%20I'm%20Gwanju!&fontAlign=50&fontAlignY=50&fontSize=40&fontColor=000000" />
 
 <!-- 방문자 수 + 팔로워 수 -->
-<img src="https://komarev.com/ghpvc/?username=Kanggwanju&label=Visitors&color=0e75b6&style=flat" alt="visitor badge"/>
 <img src="https://img.shields.io/github/followers/Kanggwanju?style=social" alt="GitHub followers"/>
 
 ---
