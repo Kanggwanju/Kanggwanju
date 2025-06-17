@@ -65,6 +65,33 @@
 
 ---
 
+### 📫 Contact & Links
+
+<a href="mailto:xprtktm1@gmail.com">
+  <img src="https://img.shields.io/badge/-xprtktm1@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Kanggwanju/TIL" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub_TIL-181717?style=flat&logo=GitHub&logoColor=white" />
+</a>
+<a href="https://velog.io/@xprtktm1" target="_blank">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
+</a>
+
+---
+
+🔍 정리:
+
+| 구분                               | 설명            |
+| -------------------------------- | ------------- |
+| `target="_blank"`                | 새 탭에서 열기      |
+| `<a href="..." target="_blank">` | HTML 링크 방식    |
+| 마크다운 `[텍스트](url)`                | 새 탭 열기 **불가** |
+
+이렇게 하면 링크 클릭 시 새 창(새 탭)에서 열리게 할 수 있어요.
+더 꾸미고 싶은 부분 있다면 언제든지 도와드릴게요 😊
+
+---
+
 <!-- 푸터 -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&section=footer" />
 
