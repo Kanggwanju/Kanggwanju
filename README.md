@@ -43,7 +43,7 @@
 
 ### 📖 Currently Learning
 
-💻 클라우드 데브옵스 자바 풀스택 취업캠프 수강 중
+💻 클라우드 데브옵스 자바 풀스택 취업캠프 수강 중  
 🗓️ 꾸준하게 TIL (Today I Learned) 작성  
 🔧 Git과 GitHub의 실전 워크플로우 학습
 
