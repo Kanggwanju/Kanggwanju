@@ -49,7 +49,7 @@
 
 ### 📖 Currently Learning
 
-💻 클라우드 데브옵스 자바 풀스택 취업캠프 수료
+💻 클라우드 데브옵스 자바 풀스택 취업캠프 수료  
 🗓️ 꾸준하게 TIL (Today I Learned) 작성  
 🔧 Git과 GitHub의 실전 워크플로우 학습
 
@@ -57,7 +57,7 @@
 
 ### 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanggwanju&layout=compact&exclude_repo=Assignment1,Assignment-3,Assignment4,GameTeamProject)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanggwanju&layout=compact&exclude_repo=Assignment1,Assignment-3,Assignment4,GameTeamProject)](https://github.com/anuraghazra/github-readme-stats)  <br><br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kanggwanju&theme=tokyonight&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
